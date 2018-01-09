@@ -1,0 +1,6 @@
+framework module Pods_DependencyManager_CocoaPods {
+  umbrella header "Pods-DependencyManager_CocoaPods-umbrella.h"
+
+  export *
+  module * { export * }
+}
